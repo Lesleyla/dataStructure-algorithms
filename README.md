@@ -1,4 +1,5 @@
 # dataStructure-algorithms
 
 
-[Assignment1](https://github.com/Lesleyla/dataStructure-algorithms/tree/main/assignment1)
+[Assignment1-LinkedList](https://github.com/Lesleyla/dataStructure-algorithms/tree/main/assignment1)
+[Assignment2-BinaryTree](https://github.com/Lesleyla/dataStructure-algorithms/tree/main/assignment2)
